@@ -1,6 +1,7 @@
 # NovaSpire AI — Powered by CHCIE
 
 > Enterprise Cognitive AI Platform — Deterministic. Auditable. Controllable.
+> Size 12 GB
 
 ---
 
