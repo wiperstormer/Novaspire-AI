@@ -214,13 +214,7 @@ Before contributing, read:
 
 ## License
 
-Condrox AI Commercial License v1.0 (CAL-1.0) — covering NovaSpire AI and CHCIE.
-Copyright (c) 2026 Rubicon Media Østen ENK. All rights reserved.
-
-Use requires a valid Enterprise License Agreement (ELA).
-See [`License`](License) for the full license text,
-[`System.md`](System.md) for the brand and identity framework, and
-[`docs/compliance/product-metadata.md`](docs/compliance/product-metadata.md) for release metadata.
+Open Source and free of charge
 
 ## Support
 
