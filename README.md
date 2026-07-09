@@ -223,9 +223,7 @@ See [`License`](License) for the full license text,
 
 ## Support
 
-| Channel | Contact |
-|---|---|
-| Enterprise Support | support@condrox.ai |
-| Security Disclosures | security@condrox.ai |
-| Legal / Licensing | legal@condrox.ai |
-| Documentation | https://docs.condrox.ai |
+Created by Tobias Østen
+Tobias@rubiconmedia.no
+
+Leave the prosject as it is. Ai needs traning and some patching and its ready to go.
